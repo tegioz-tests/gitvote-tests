@@ -1,0 +1,3 @@
+# Testing gitvote
+
+Lorem ipsum...
