@@ -1,9 +1,0 @@
-# GitVote metadata file
-
-profiles:
-  default:
-    duration: 1min
-    pass_threshold: 50
-    allowed_voters:
-      users:
-        - cynthia-sg
